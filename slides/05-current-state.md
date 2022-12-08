@@ -51,7 +51,7 @@ Still using Regex
 
 ## Thanks to Algolia
 
-[Docsearch()] is free for open source projects
+[Docsearch](https://docsearch.algolia.com/) is free for open source projects
 
 ![](./assets/docsearch.png)
 

@@ -49,8 +49,8 @@ elseif node_name == 'argument' then
   return ('%s`{%s}`'):format(ws(), text)
 ```
 
-## Who is the coolest doctor in the hospital?
+## I'm looking for a good medical TV Show...
 
-## The hip specialist
+## ... but I don't want no Scrubs.
 
 ![](./assets/dancing-doctor.gif)

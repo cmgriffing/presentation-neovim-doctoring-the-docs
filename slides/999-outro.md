@@ -1,11 +1,13 @@
-## Citations
-
-- Something: url to citation
-
 # Thanks
 
+<style>
+pre, code {
+  background: white;
+}
+</style>
+
 <script>
-/* Global Styles go here */
+/* Global Scripts go here */
 
 
 

@@ -2,7 +2,9 @@
 
 ## The Boilerplate
 
-- Astro CLI documentation starter
+Astro CLI documentation starter
+
+![](./assets/astro-starter.png)
 
 <div class="notes">
 Why Astro?
@@ -16,10 +18,13 @@ Why Astro?
 
 ## Regex
 
-The plural of "regex" is "regrets".
+![](./assets/nope.gif)
 
 <div class="notes">
+The plural of "regex" is "regrets".
+
 combination of whole file regex and line based regex parsing
+
 </div>
 
 ## Examples (txt)
