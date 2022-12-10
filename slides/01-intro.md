@@ -4,7 +4,7 @@
 
 - Twitch: [https://twitch.tv/cmgriffing](https://twitch.tv/cmgriffing)
 - Twitter: [https://twitter.com/cmgriffing](https://twitter.com/cmgriffing)
-- YouTube: [https://youtube.com/@cmgriffing](https://youtube.com/@cmgriffing)
+- YouTube: [https://youtube.com/\@cmgriffing](https://youtube.com/@cmgriffing)
 - GitHub: [https://github.com/cmgriffing](https://github.com/cmgriffing)
 - Coding Jack of all Trades
 - Aspiring Developer Advocate
